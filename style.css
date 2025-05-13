@@ -68,7 +68,7 @@ body {
 }
 
 button {
-    background: #667eea;
+    background: #800080;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -78,5 +78,5 @@ button {
 }
 
 button:hover {
-    background: #764ba2;
+    background: #4b0082;
 }
